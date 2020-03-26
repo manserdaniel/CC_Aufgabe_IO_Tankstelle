@@ -1,0 +1,5 @@
+Daniel Manser;BMW116d;Service;575.0
+Daniel Manser;BMW116d;Service;750.0
+Daniel Manser;BMW116d;Repair;250.0
+Daniel Manser;BMW116d;Tanken;61.0
+Daniel Manser;BMW116d;Tanken;61.0
